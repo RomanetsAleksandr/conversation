@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>NewButton.qml</file>
+        <file>NewLabel.qml</file>
+        <file>DialogBrowser.qml</file>
+        <file>images/close.png</file>
+        <file>images/return.png</file>
+        <file>NewToolButton.qml</file>
+        <file>NewText.qml</file>
+        <file>images/dialog.png</file>
+        <file>images/caption.png</file>
+    </qresource>
+</RCC>
